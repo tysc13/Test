@@ -11,6 +11,7 @@ def factorial(num):
 
 # Tests
 print(factorial(-8))
+print(factorial(-4))
 print(factorial(0))
 print(factorial(1))
 print(factorial(2))
